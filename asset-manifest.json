@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/langdanger/static/css/main.ecfcacd6.css",
+    "main.js": "/langdanger/static/js/main.0c227741.js",
+    "static/js/787.f3324c11.chunk.js": "/langdanger/static/js/787.f3324c11.chunk.js",
+    "static/media/json": "/langdanger/static/media/f3fd67b739213db23653aa05dbc7420f340139cb2b4d52afb58c57a6b13631204ff6c3c031f3936e77add84bcef4a6fabb3a98b1f20534f563fde0de51b49762.77adba54836af4457a31.json",
+    "static/media/csv": "/langdanger/static/media/fc2c06f0952f1669b7cc87db4e589926fc422f268c16a09fc2ba98f14ad0ca72f1baa33241cb0935df9e0dfde1a412d35f17c11ee399f20fffb4648926fe47a8.092d280d1fccde38cf93.csv",
+    "index.html": "/langdanger/index.html",
+    "main.ecfcacd6.css.map": "/langdanger/static/css/main.ecfcacd6.css.map",
+    "main.0c227741.js.map": "/langdanger/static/js/main.0c227741.js.map",
+    "787.f3324c11.chunk.js.map": "/langdanger/static/js/787.f3324c11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecfcacd6.css",
+    "static/js/main.0c227741.js"
+  ]
+}
